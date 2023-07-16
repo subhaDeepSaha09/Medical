@@ -1,0 +1,205 @@
+
+@media only screen and (max-width: 768px) {
+    .single-hs-item {
+        height: 740px;
+   }
+    .hero-text h1 {
+        font-size: 30px;
+   }
+    .hero-text p {
+        font-size: 15px;
+        margin-bottom: 25px;
+   }
+    .owl-carousel .owl-nav button.owl-next {
+        top: auto;
+        margin: 0;
+        bottom: 0px;
+   }
+    .owl-carousel .owl-nav button.owl-prev {
+        top: auto;
+        margin: 0;
+        bottom: 0px;
+   }
+    .owl-dots {
+        bottom: 10px;
+        left: 50px;
+        right: 50px;
+   }
+
+ .header-contact ul li {
+    display: contents;
+    padding: 10px 40px 0 0px;
+}
+.header-button{
+    display: none;
+}
+.owls {
+    position: relative;
+    margin-top: -8rem;
+}
+.single-hs-item{
+    padding: 89% 0 8%;
+}
+
+.fixed-top {
+    position: absolute!important;
+    background: #000000;
+    top:35px
+}
+.header-contact ul li a {
+    color: #fff;
+    font-size: 14px;
+    margin-right: 17px;
+}
+.owl-text h1 {
+    color: #fff;
+    font-size: 33px;
+}
+.owl-text p {
+    color: #fff;
+    font-size: 15px;
+}
+.mid_bdy {
+    margin-bottom: 20px;
+}
+
+.acco {
+    background: #eff8ff;
+    padding: 20px;
+}
+.accordion .item .item-header h2 button.btn.btn-link {
+    font-size: 15px;
+    line-height: 1.5;
+}
+.acco h3 {
+    font-size: 27px;
+}
+
+.desk{
+    display: none;
+}
+.mob{
+    display: block;
+}
+
+.mob .owl-dots{
+    display: none;
+}
+.mob .owl-nav{
+    display: block;
+}
+
+.mob .owl-nav button.owl-next, .mob .owl-nav button.owl-prev{
+    color: #000;
+    top:55%;
+}
+.mob .owl-nav button.owl-next{
+    right: 0;
+}
+.mob .owl-nav button.owl-prev{
+    left: 0;
+}
+.service{
+    padding: 50px 0;
+}
+.call{
+    text-align: center;
+    padding: 70px 0;
+}
+.right {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.mobs .owl-nav button.owl-next, .mobs .owl-nav button.owl-prev {
+    color: #000;
+    top:36%;
+    background: #fff;
+}
+.mobs .owl-nav button.owl-next{
+    right: 0;
+}
+.mobs .owl-nav button.owl-prev{
+    left: 0;
+}
+
+.mobs{
+    display: block;
+}
+.mobs .owl-dots{
+    display: none;
+}
+.mobs .owl-nav{
+    display: block;
+}
+
+.gallery {
+    padding: 40px 0;
+}
+.greys {
+    padding: 40px 0;
+}
+.contact{
+    padding: 40px 0;
+}
+.ft {
+    margin-bottom: 30px;
+}
+.foot {
+    background: #055fad;
+    padding: 40px 0 10px;
+}
+.vid img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.video {
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+.accordion .item .item-header h2 button {
+    padding: 5px 10px 5px;
+}
+.accordion .item .item-header h2 .dwn {
+    margin-top: 4px;
+}
+.contact form {
+    text-align: center;
+    margin-top: 18px;
+}
+.butt {
+    bottom: 33px;
+    right: 12px;
+}
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1200px) and (min-width: 769px) {
+
+.navbar-nav .nav-item .nav-link {
+    padding: 0.9em 0.4em!important;
+    font-size: 14px;
+}
+.single-hs-item {
+    padding: 40% 0 15%;
+}
+.video{
+    overflow: hidden;
+    width: 100%;
+    height: 555px;
+}
+.vid img {
+    width: 100%;
+    height: 555px;
+    object-fit: cover;
+}
+
+
+}
+
